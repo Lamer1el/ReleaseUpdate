@@ -1,0 +1,8 @@
+{
+  "name": "Skitefi",
+  "description": "Android hardware benchmark with offline testing, STX format exchange, deep telemetry, and hardware stress tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
